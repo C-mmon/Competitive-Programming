@@ -86,28 +86,27 @@ when you want to rebuild your project
 ### PUBLIC COMMANDS
 * /help - get a list of all the commands
 * /compiler - compile and run code  
-![alt text](https://github.com/Gotham13121997/superCodingBot/blob/master/gifs/compiler.gif)  
 * /register - to register your handle with the bot  
-![alt text](https://github.com/Gotham13121997/superCodingBot/blob/master/gifs/register.gif)  
+
 * /unregister - to unregister your handle from the bot
 * /update - manually initiate update of your data
 * /geeksforgeeks - browse topics from geeksforgeeks.com  
-![alt text](https://github.com/Gotham13121997/superCodingBot/blob/master/gifs/geeksforgeeks.gif)  
+
 * /randomcc - get random question from codechef according to choice  
-![alt text](https://github.com/Gotham13121997/superCodingBot/blob/master/gifs/randomcc.gif)  
+
 * /randomcf - get random question from codeforces according to choice  
-![alt text](https://github.com/Gotham13121997/superCodingBot/blob/master/gifs/randomcf.gif)  
+
 * /ranklist - get a ranklist according to choice  
-![alt text](https://github.com/Gotham13121997/superCodingBot/blob/master/gifs/ranklist.jpeg)  
+
 * /upcoming - to get a list of upcoming competitions and setting a reminder for them  
-![alt text](https://github.com/Gotham13121997/superCodingBot/blob/master/gifs/upcoming.gif)  
+
 * /ongoing - to get a list of ongoing competitions  
-![alt text](https://github.com/Gotham13121997/superCodingBot/blob/master/gifs/ongoing.gif)  
+
 /dontremindme - to tell the bot not to remind you about a competition  
-![alt text](https://github.com/Gotham13121997/superCodingBot/blob/master/gifs/dontremindme.gif)  
+
 /subscribe - to subscribe for question of the day
 /unsubscribe - to unsubscribe from question of the day  
-![alt text](https://github.com/Gotham13121997/superCodingBot/blob/master/gifs/subscribe.gif)  
+
 
 ### ADMIN COMMANDS
 * /givememydb - get the sqlite database
